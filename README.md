@@ -1,11 +1,8 @@
 
 <sub>Forge Version - 1.8.9</sub>
  
- 
- Please use 1.2.0, as 1.1.9 and any older versions are no longer in service. 1.2.0, has multiple new features, and will give you a more comfortable and profitable flipping experience.
- 
- 
- This is a popular flipping mod, used by over 58% of top flippers! Mushroom Eternal finds AH snipes so quick, you can make over 4B in a day from being quite lucky/depending on how large your budget is!
+
+This is a popular flipping mod, used by over 58% of top flippers! Mushroom Eternal finds AH snipes so quick, you can make over 4B in a day from being quite lucky/depending on how large your budget is!
  
  
 
@@ -16,7 +13,7 @@ Download
 ----------------------------------------------------------------------------------------------------
 
 
- If on Mac
+If on Mac
 Hold down Shift Command and G on your keyboard 
 
 
